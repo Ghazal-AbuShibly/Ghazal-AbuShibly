@@ -9,8 +9,11 @@ Third-year **Software Engineering** student at **Kinneret Academic College** and
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java · C · C# · SQL · Dart · Assembly
-**Frameworks & Tools:** JavaFX · WinForms · Flutter · MySQL · Visual Studio · IntelliJ IDEA · VS Code · Linux (Ubuntu) · Git
+**Languages:** 
+Java · C · C# · SQL · Dart · Assembly
+
+**Frameworks & Tools:** 
+JavaFX · WinForms · Flutter · MySQL · Visual Studio · IntelliJ IDEA · VS Code · Linux (Ubuntu) · Git
 
 ## 📂 Featured Projects
 
